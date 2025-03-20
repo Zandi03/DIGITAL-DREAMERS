@@ -1,4 +1,4 @@
-#Team Meeting Log
+# Team Meeting Log
 
 Meeting 1: Project Commencement Meeting
 
