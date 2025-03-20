@@ -1,12 +1,12 @@
 # Project Name: Spam SMS Detection 
 
-# Problem Statement: 
+## Problem Statement: 
 Spam messages are a daily annoyance, flooding our inboxes with unwanted ads, scams, 
 and distractions. Many SMS apps don't go far enough to filter these out, leaving users 
 dissatisfied and vulnerable to phishing attempts. 
 
-# Target Users: 
-. Everyday mobile users who want a cleaner, safer messaging experience. 
+## Target Users: 
+ . Everyday mobile users who want a cleaner, safer messaging experience. 
 . Businesses seeking to protect employees from fraudulent messages. 
 . Telecom companies seeking to improve their spam detection capabilities.
 
