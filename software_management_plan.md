@@ -1,10 +1,10 @@
 # Software Project Management Plan
 
 ## Team Members & Roles
-- *Memory Sidumo* - Project Manager
-- *Zandiswa Cetywayo* - Developer
-- *Chuleza Dotye* - Researcher
-- *Ntombizodwa Mbuthuma* - Tester
+- Memory Sidumo - Project Manager
+- Zandiswa Cetywayo - Developer
+- Chuleza Dotye - Researcher
+- Ntombizodwa Mbuthuma - Tester
 
 ## Project Timeline
 | Milestone | Task | Deadline |
@@ -21,8 +21,8 @@
 - *Risk:* Software bugs → *Mitigation:* Continuous testing and bug tracking
 
 ## Technology Stack
-*Backend:* Python with Flask/Django  
-*Frontend:* React.js  
-*Machine Learning:* Scikit-learn, TensorFlow/Keras  
-*Database:* PostgreSQL  
-*Version Control:* GitHub  
+Backend: Python with Flask/Django  
+Frontend: React.js  
+Machine Learning: Scikit-learn, TensorFlow/Keras  
+Database: PostgreSQL  
+Version Control: GitHub  
