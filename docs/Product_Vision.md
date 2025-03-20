@@ -1,20 +1,20 @@
-#Project Name: Spam SMS Detection 
+# Project Name: Spam SMS Detection 
 
-#Problem Statement: 
+# Problem Statement: 
 Spam messages are a daily annoyance, flooding our inboxes with unwanted ads, scams, 
 and distractions. Many SMS apps don't go far enough to filter these out, leaving users 
 dissatisfied and vulnerable to phishing attempts. 
 
-#Target Users: 
+# Target Users: 
 . Everyday mobile users who want a cleaner, safer messaging experience. 
 . Businesses seeking to protect employees from fraudulent messages. 
 . Telecom companies seeking to improve their spam detection capabilities.
 
-#Unique Value Proposition: 
+# Unique Value Proposition: 
 AI-powered SMS filtering system that learns to identify and block spam messages, 
 ensuring users receive only the messages that matter. 
 
-#Key Features: 
+# Key Features: 
 . Spam detection powered by AI that improves with time. 
 . Unwanted SMS texts are instantly filtered. 
 . Rules for spam can be changed to help users maintain control. 
@@ -22,15 +22,13 @@ ensuring users receive only the messages that matter.
 . Smooth interaction with current messaging applications. 
 . Design that prioritizes privacy to protect user data. 
 
-#Success Metrics: 
+# Success Metrics: 
 . High detection and blocking accuracy (over 95%) for spam. 
-DIGITAL DREAMERS 
-PROJECT 
 . Considerable decline in user-reported spam mails. 
 . High levels of user engagement and adoption. 
 . Positive comments and a rise in user happiness. 
 
-#Moore’s Vision Template: 
+# Moore’s Vision Template: 
 Moore’s Vision Statement for Spam SMS Detection Application  
 For anyone tired of dealing with spam texts. 
 Who struggles with constant interruptions, security risks, and message clutter. 
