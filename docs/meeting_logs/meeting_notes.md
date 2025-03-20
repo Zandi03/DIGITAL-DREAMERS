@@ -20,8 +20,11 @@ Absent: None
 	Assigned roles:
 
 •	Memory Sidumo- Project Manager
+
 •	Zandiswa Cetywayo- Developer
+
 •	Chuleza Dotye- Researcher
+
 •	Ntombizodwa Mbuthuma- Tester
 
 #Action Items & Assignment
@@ -38,6 +41,8 @@ Draft Meeting Log               |	Memory Sidumo	        |15 March 2025
 #Next Steps
 
 	Review wireframes in upcoming meeting.
+
 	Finalize product vision document.
+
 	Begin coding initial UI components.
 
