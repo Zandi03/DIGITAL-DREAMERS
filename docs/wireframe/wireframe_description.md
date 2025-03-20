@@ -23,3 +23,9 @@ Page 3: Settings
 - *Security Settings*: A section with three toggle switches, represented by small rectangles with labels:
     - Two-Factor Authentication (2FA)
     - Password Protection
+ 
+
+mkdir -p docs/wireframes
+mv home_page.png message_classification.png history_page.png settings_page.png docs/wireframes/
+mv wireframe_description.md docs/wireframes/
+
