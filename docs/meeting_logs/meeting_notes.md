@@ -1,17 +1,24 @@
 #Team Meeting Log
 
 Meeting 1: Project Commencement Meeting
+
 Date: 8 March 2025
+
 Time: 18:00-20:00
+
 Venue: WhatsApp
+
 Attendance: Memory Sidumo, Chuleza Dotye, Zandiswa Cetywayo, Mbuthuma Ntombizodwa
+
 Absent: None
 
 #Agenda & Topics Discussed
 
 1.	Project selection to be finalized.
-2.	Team roles to be assigned.
-3.	GitHub repository setup.
+2.	
+3.	Team roles to be assigned.
+4.	
+5.	GitHub repository setup.
 
 #Decisions Made
 
