@@ -1,27 +1,16 @@
 Page 1: Spam and SMS Detection
-- *Header*: A simple rectangle with the title "Spam and SMS Detection" written in bold letters.
-- *Detection Filters*: A section with three checkboxes, represented by small squares with labels:
-    - Keyword filtering
-    - Machine learning
-    - Custom filtering 
-- *Spam Messages*: A list of rectangles with the following information:
-    - Sender (e.g., "Spammy McSpamface")
-    - Message Text (e.g., "Win a free prize!")
-    - Report/Block Button (e.g., a small rectangle with an "X" symbol)
-- *Legitimate Messages*: A list of rectangles with the following information:
-    - Sender (e.g., "John Doe")
-    - Message Text (e.g., "Hey, how's it going?")
-
+- *Header*: A simple header saying " Spam and sms detection " written in bold.
+- the header is written in bold.
+- a brief text about the app purpose " detect and block spam sms".
+- a small call to action button "scan sms" to encourage users to take action.
+- a container element that holds link to Settings like " app settings" or " privacy policy ".
 Page 2: SMS Inbox
-
 - *Header*: A simple rectangle with the title "SMS Inbox" written in bold letters.
 - *Message List*: A list of rectangles with the following information:
-    - Sender (e.g., "John Doe")
-    - Message Text (e.g., "Hey, how's it going?")
+    - Sender (e.g., "chuleza")
+    - Message Text (e.g., "hello")
     - Report Spam Button (e.g., a small rectangle with a spam symbol)
-- *Message Selection*: A small arrow or pointer indicating that users can select a message to view its details.
-- *Compose Button*: A small rectangle with a pencil or pen symbol, indicating the ability to compose a new message.
-
+- *Message button saying Report spam if it's a spam.
 Page 3: Settings
 - *Header*: A simple rectangle with the title "Settings" written in bold letters.
 - *Account Settings*: A section with three text input fields, represented by small rectangles with labels:
