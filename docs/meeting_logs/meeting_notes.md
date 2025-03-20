@@ -12,13 +12,13 @@ Attendance: Memory Sidumo, Chuleza Dotye, Zandiswa Cetywayo, Mbuthuma Ntombizodw
 
 Absent: None
 
-#Agenda & Topics Discussed
+# Agenda & Topics Discussed
 
 1.	Project selection to be finalized.
 2.	Team roles to be assigned.
 3.	GitHub repository setup.
 
-#Decisions Made
+# Decisions Made
 
 	Selected “Spam SMS Detection App” as our project.
 
@@ -32,7 +32,7 @@ Absent: None
 
 •	Ntombizodwa Mbuthuma- Tester
 
-#Action Items & Assignment
+# Action Items & Assignment
 Task	                          |    Assigned To	     | Deadline
 
 Wireframe design                |	Chuleza Dotye	       |15 March 2025
@@ -45,7 +45,7 @@ Draft Meeting Log               |	Memory Sidumo	        |15 March 2025
 
 GitHub repository setup        | All team members.      | 20 March 2025
 
-#Next Steps
+# Next Steps
 
 	Review wireframes in upcoming meeting.
 
