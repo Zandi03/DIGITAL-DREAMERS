@@ -33,6 +33,7 @@ Absent: None
 •	Ntombizodwa Mbuthuma- Tester
 
 # Action Items & Assignment
+|-----------|------|---------|
 Task	                          |    Assigned To	     | Deadline
 
 Wireframe design                |	Chuleza Dotye	       |15 March 2025
