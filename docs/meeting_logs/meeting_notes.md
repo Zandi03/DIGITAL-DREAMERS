@@ -33,18 +33,15 @@ Absent: None
 •	Ntombizodwa Mbuthuma- Tester
 
 # Action Items & Assignment
-|-----------|------|---------|
-Task	                          |    Assigned To	     | Deadline
 
-Wireframe design                |	Chuleza Dotye	       |15 March 2025
+| Task | Assigned To | Deadline |
+|-----------|----------------------|------------|
+| Wireframe design | Chuleza Dotye | 15 March 2025 |
+| Draft Software Management Plan | Zandiswa Cetywayo | 15 March 2025 |
+| Complete Product Vision Document | Ntombizodwa Mbuthuma | 15 March 2025 |
+| Draft Meeting Log | Memory Sidumo | 15 March 2025 |
+| GitHub repository setup | All team members | 20 March 2025 |
 
-Draft Software  Management Plan |Zandiswa Cetywayo     |15 March 2025
-
-Complete Product Vision Document|	Ntombizodwa Mbuthuma |15 March 2025
-
-Draft Meeting Log               |	Memory Sidumo	        |15 March 2025
-
-GitHub repository setup        | All team members.      | 20 March 2025
 
 # Next Steps
 
