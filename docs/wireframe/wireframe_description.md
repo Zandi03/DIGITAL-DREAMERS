@@ -3,7 +3,7 @@ Page 1: Spam and SMS Detection
 - *Detection Filters*: A section with three checkboxes, represented by small squares with labels:
     - Keyword filtering
     - Machine learning
-    - Custom filtering
+    - Custom filtering 
 - *Spam Messages*: A list of rectangles with the following information:
     - Sender (e.g., "Spammy McSpamface")
     - Message Text (e.g., "Win a free prize!")
