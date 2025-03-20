@@ -1,41 +1,36 @@
-Wireframe Description
-This design includes three main pages: SMS Message List, SMS Inbox, and Settings.
+Page 1: Spam and SMS Detection
+- *Header*: A simple rectangle with the title "Spam and SMS Detection" written in bold letters.
+- *Detection Filters*: A section with three checkboxes, represented by small squares with labels:
+    - Keyword filtering
+    - Machine learning
+    - Custom filtering
+- *Spam Messages*: A list of rectangles with the following information:
+    - Sender (e.g., "Spammy McSpamface")
+    - Message Text (e.g., "Win a free prize!")
+    - Report/Block Button (e.g., a small rectangle with an "X" symbol)
+- *Legitimate Messages*: A list of rectangles with the following information:
+    - Sender (e.g., "John Doe")
+    - Message Text (e.g., "Hey, how's it going?")
 
-*SMS Message List Page*
-- *Header*: Page title "SMS Messages" or "Inbox"
-- *Search Bar*: Search bar with magnifying glass icon to find specific messages
-- *Message List*: List of SMS messages with:
-    - *Sender*: Name or number of sender
-    - *Message Text*: Preview of message text
-    - *Report Spam Button*: Button to report spam messages
+Page 2: SMS Inbox
 
-*SMS Inbox Page*
-- *Header*: Page title "SMS Inbox"
-- *Message List*: List of SMS messages with:
-    - *Sender*: Name or number of sender
-    - *Message Text*: Preview of message text
-    - *Report Spam Button*: Button to report spam messages
-- *Message Selection*: Users can select a message to view its details
+- *Header*: A simple rectangle with the title "SMS Inbox" written in bold letters.
+- *Message List*: A list of rectangles with the following information:
+    - Sender (e.g., "John Doe")
+    - Message Text (e.g., "Hey, how's it going?")
+    - Report Spam Button (e.g., a small rectangle with a spam symbol)
+- *Message Selection*: A small arrow or pointer indicating that users can select a message to view its details.
+- *Compose Button*: A small rectangle with a pencil or pen symbol, indicating the ability to compose a new message.
 
-*Settings Page*
-- *Header*: Page title "Settings"
-- *Account Settings*: Section for account-related settings, including:
-    - *Username*: Text input field to edit username
-    - *Email*: Text input field to edit email address
-    - *Password*: Text input field to edit password
-- *Notification Settings*: Section for notification-related settings, including:
-    - *Notification Types*: Checkboxes to select notification types
-    - *Notification Frequency*: Dropdown menu to select notification frequency
-- *Security Settings*: Section for security-related settings, including:
-    - *Two-Factor Authentication (2FA)*: Toggle switch to enable or disable 2FA
-    - *Password Protection*: Toggle switch to enable or disable password protection
-    - *Data Encryption*: Toggle switch to enable or disable data encryption
-
-*Navigation*
-- *Navigation Menu*: Basic navigation menu with links to SMS Message List, SMS Inbox, and Settings pages
-
-*Hand-Drawn Elements*
-- *Simple Shapes*: Rectangles, lines, and basic shapes represent layout and interactive elements
-- *Basic Text*: Text labels elements and provides context
-
-This wireframe design provides a basic structure for an SMS ap
+Page 3: Settings
+- *Header*: A simple rectangle with the title "Settings" written in bold letters.
+- *Account Settings*: A section with three text input fields, represented by small rectangles with labels:
+    - Username
+    - Email
+    - Password
+- *Notification Settings*: A section with two elements:
+    - Notification Types: A list of checkboxes with labels (e.g., spam detection, new message)
+    - Notification Frequency: A dropdown menu represented by a small rectangle with an arrow symbol
+- *Security Settings*: A section with three toggle switches, represented by small rectangles with labels:
+    - Two-Factor Authentication (2FA)
+    - Password Protection
