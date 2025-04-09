@@ -97,4 +97,4 @@ Absent: None
 
 	Review on product schema.
 
-	Finalize erro handling documenttion.
+	Finalize error handling documenttion.
