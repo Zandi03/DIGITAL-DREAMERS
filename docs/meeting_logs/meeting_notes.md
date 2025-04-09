@@ -51,3 +51,50 @@ Absent: None
 
 	Begin coding initial UI components.
 
+
+Meeting 2: : Agile Development Planning
+
+Date: 8 April 2025
+
+Time: 19:00-19:30
+
+Venue: Microsoft Teams
+
+Attendance: Memory Sidumo, Chuleza Dotye, Zandiswa Cetywayo, Mbuthuma Ntombizodwa
+
+Absent: None
+
+# Agenda & Topics Discussed
+
+1.  Agile Methodology Selection 
+2.	Team roles to be assigned.
+
+# Decisions Made
+
+	Selected “Scrum " as our agile method.
+
+	Assigned roles:
+
+•	Memory Sidumo- Project Owner
+
+•	Zandiswa Cetywayo- Developer
+
+•	Chuleza Dotye- Scrum Master
+
+•	Ntombizodwa Mbuthuma- QA & Documentation
+
+# Action Items & Assignment
+
+| Task | Assigned To | Deadline |
+|-----------|----------------------|------------|
+| Set up backend Django server | Chuleza Dotye | 11 April 2025 |
+| Design home page wireframe  | Zandiswa Cetywayo | 11 April 2025 |
+| Error handling documentation | Ntombizodwa Mbuthuma |11 April 2025 |
+| Draft Meeting Log | Memory Sidumo | 11 April 2025 |
+
+
+# Next Steps
+
+	Review on product schema.
+
+	Finalize erro handling documenttion.
