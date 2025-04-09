@@ -1,6 +1,6 @@
 # Team Meeting Log
 
-Meeting 1: Project Commencement Meeting
+## Meeting 1: Project Commencement Meeting
 
 Date: 8 March 2025
 
@@ -52,7 +52,7 @@ Absent: None
 	Begin coding initial UI components.
 
 
-Meeting 2: : Agile Development Planning
+## Meeting 2: : Agile Development Planning
 
 Date: 8 April 2025
 
