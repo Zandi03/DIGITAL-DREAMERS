@@ -3,8 +3,11 @@
 
 ## Roles and Responsibilities
 -**Product Owner**: Memory Sidumo - Responsible for prioritizing backlog items and aligning development with stakeholder goals.
--**Scrum Master**: Chuleza Dotye - Facilitates Agile meetings and ensures Scrum principles are followed. 
+
+-**Scrum Master**: Chuleza Dotye - Facilitates Agile meetings and ensures Scrum principles are followed.
+
 -**Developer**: Zandiswa Cetywayo - Backend and API development, Frontend design and implementation. 
+
 -**QA & Documentation**: Ntombizodwa Mbuthuma - Testing and writing technical documentation.
 
 ## Sprint Schedule
