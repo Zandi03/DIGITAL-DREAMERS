@@ -13,7 +13,10 @@
 -Meetings: Daily check-in on Whatsapp(19:00 PM sync) and weekly sync via Microsoft Teams.
 
 ## Communication Tools
+
 -**Github** (source control, task tracking)
+
 -**WhatsApp** (daily check-ins)
+
 -**Micrrosoft Teams** (sprint planning & reviews)
 
