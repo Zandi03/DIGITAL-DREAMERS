@@ -1,4 +1,6 @@
-##  User Scenarios
+#  User Scenarios & Story Mapping
+
+## scenarios
 
 ### Scenario 1: Priya checks a suspicious message
 Priya receives a message offering a $1,000 scholarship. Unsure if it's legit, she opens the Spam SMS Detection tool, pastes the message, clicks "Detect Spam", and sees it's flagged as spam with high confidence. She deletes it immediately.
