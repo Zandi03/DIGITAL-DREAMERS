@@ -1,4 +1,4 @@
-## 📄 User Personas: Spam SMS Detection
+# User Personas: Spam SMS Detection
 
 ### 👤 Persona 1: Priya – Concerned College Student
 - **Age**: 20  
