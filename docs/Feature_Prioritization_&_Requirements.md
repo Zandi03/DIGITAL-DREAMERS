@@ -25,7 +25,7 @@
 
 ---
 
-### 🧱 Non-Functional Requirements
+###  Non-Functional Requirements
 
 | ID   | Requirement                                  | Type           |
 |------|----------------------------------------------|----------------|
@@ -33,4 +33,4 @@
 | NFR2 | System must handle 1000 messages per hour.   | Scalability    |
 | NFR3 | UI should be accessible and mobile-friendly. | Usability      |
 | NFR4 | Data should not be stored or shared.         | Privacy        |
-"""
+
