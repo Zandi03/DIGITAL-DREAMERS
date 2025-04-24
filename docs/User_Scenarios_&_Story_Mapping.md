@@ -1,4 +1,4 @@
-#  User Scenarios & Story Mapping
+#  User Scenarios & Story Mapping: Spam SMS Detection
 
 ## scenarios
 
