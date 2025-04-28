@@ -6,10 +6,13 @@
  messages using **TF-IDF, worf embeddings, and classfiers like Naive Bayes, Logistic Regression and SVM**.
 
 ## Team Members 
- Memory Sidumo- Project Manager 
- Zandiswa Cetywayo- Developer
- Chuleza Dotye- Researcher
- Ntombizodwa Mbuthuma- Tester
+ - Memory Sidumo- Project Manager 
+ 
+ - Zandiswa Cetywayo- Developer
+   
+ - Chuleza Dotye- Researcher
+   
+ - Ntombizodwa Mbuthuma- Tester
 
 ## Features
  ✔️ **Real-time SMS classification** – Detects spam instantly  
