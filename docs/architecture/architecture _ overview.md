@@ -1,13 +1,13 @@
 # System Architecture Overview
 ## Architectural Style
-Layered Architecture
+**Layered Architecture**
 ## Alternative Options Considered
-- **Monolithic**
+**Monolithic Architecture**
 - Definition : Everything in a single deployable unit.
 - Advantage : The structure is simple to write and deploy initially.
 - Disadvantage : Difficult to scale, tightly coupled and hard to manage as it grows.
   
-- **Microservices**
+  **Microservices Architecture**
 - Definition : Divides the app into small services.
 - Advantage : Very scalable, each service can have its own tech stack.
 - Disadvantage :Very complicated deployment, much communication overhead.
@@ -26,19 +26,25 @@ Example Diagram (Use tools to create a real one):
 | Presentation Layer |
 | (React Frontend) |
 +----------------------------+
+
  |
  v
+ 
 +----------------------------+
 | Application Layer |
 | (Django Backend Services) |
 +----------------------------+
+
  |
  v
+ 
 +----------------------------+
 | Data Layer |
 | (PostgreSQL Database) |
 +----------------------------+
-Explanation of Diagram:
+
+**Explanation of Diagram**:
+
 • Presentation Layer: Manages web user interface as well as dashboard
 • Application Layer: Business logic and coordination between frontend and backend.
 • Data Layer: Contains the database, ML modl storage as well as retrieval processes.
