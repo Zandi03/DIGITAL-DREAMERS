@@ -21,7 +21,7 @@ Easy to maintain, modular and scalable.
 -  Alterations in a layer can impact others if layers are not abstracted properly.
 -  Exceptions in lower layers necessitate robust exception handling in higher layers.
 ## High-Level Architecture Diagram (add your real diagram)
-Example Diagram (Use tools to create a real one):
+
 +----------------------------+
 | Presentation Layer |
 | (React Frontend) |
