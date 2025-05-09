@@ -23,29 +23,34 @@ Easy to maintain, modular and scalable.
 ## High-Level Architecture Diagram (add your real diagram)
 
 +----------------------------+
+
 | Presentation Layer |
 | (React Frontend) |
+
++----------------------------+      
+         |
+         V
 +----------------------------+
 
- |
- v
- 
-+----------------------------+
 | Application Layer |
 | (Django Backend Services) |
+
 +----------------------------+
 
- |
- v
- 
+         |
+         V
 +----------------------------+
+
 | Data Layer |
 | (PostgreSQL Database) |
+
 +----------------------------+
 
 **Explanation of Diagram**:
 
-• Presentation Layer: Manages web user interface as well as dashboard
+• Presentation Layer: Manages web user interface as well as dashboard,
+
 • Application Layer: Business logic and coordination between frontend and backend.
+
 • Data Layer: Contains the database, ML modl storage as well as retrieval processes.
 
