@@ -25,14 +25,17 @@ Easy to maintain, modular and scalable.
 +----------------------------+
 
 | Presentation Layer |
+
 | (React Frontend) |
 
 +----------------------------+      
+    
          |
          V
 +----------------------------+
 
 | Application Layer |
+
 | (Django Backend Services) |
 
 +----------------------------+
@@ -42,6 +45,7 @@ Easy to maintain, modular and scalable.
 +----------------------------+
 
 | Data Layer |
+
 | (PostgreSQL Database) |
 
 +----------------------------+
