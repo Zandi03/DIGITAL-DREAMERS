@@ -159,7 +159,7 @@ Absent: None
 |System decomposition | Ntombizodwa Mbuthuma| 10 May 2025 |
 |Draw architecture diagrams. Technology stack justificatoin. | Zandiswa Cetywayo | 10 May 2025 |
 |Updating project board  | Chuleza Dotye |10 May 2025 |
-|Define system architecture. Updating meting notes | Memory Sidumo | 10 May 2025 |
+|Define system architecture. Updating meeting notes | Memory Sidumo | 10 May 2025 |
 | GitHub repository update | All team members | 10 May  2025 |
 
 
