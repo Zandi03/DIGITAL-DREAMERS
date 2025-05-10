@@ -22,32 +22,21 @@ Easy to maintain, modular and scalable.
 -  Exceptions in lower layers necessitate robust exception handling in higher layers.
 ## High-Level Architecture Diagram (add your real diagram)
 
-+----------------------------+
-
+     +----------------------------+
 | Presentation Layer |
-
 | (React Frontend) |
-
-+----------------------------+      
-    
-         |
-         V
 +----------------------------+
-
+|
+v
++----------------------------+
 | Application Layer |
-
-| (Django Backend Services) |
-
+| (Flask/Django Backend API) |
 +----------------------------+
-
-         |
-         V
+|
+v
 +----------------------------+
-
 | Data Layer |
-
 | (PostgreSQL Database) |
-
 +----------------------------+
 
 **Explanation of Diagram**:
@@ -57,19 +46,5 @@ Easy to maintain, modular and scalable.
 • Application Layer: Business logic and coordination between frontend and backend.
 
 • Data Layer: Contains the database, ML modl storage as well as retrieval processes.
-----------------------------+ 
-| Presentation Layer         | 
-| (React Frontend)            | 
-+----------------------------+ 
-| 
-v 
-+----------------------------+ 
-| Application Layer          | 
-| (Django Backend Services)  | 
-+----------------------------+ 
-| 
-v 
-+----------------------------+ 
-| Data Layer                 | 
-| (PostgreSQL Database)      | 
-+----------------------------+ 
+
+
