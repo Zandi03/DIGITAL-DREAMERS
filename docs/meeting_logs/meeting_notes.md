@@ -128,9 +128,38 @@ Absent: None
 |Developing personas and user scenarios | Memory Sidumo |2 April  2025 |
 | GitHub repository update | All team members |2 April  2025 |
 
-
 # Next Steps
 
 	Begin phase 4
+
+
+## Meeting 4: Features,Scenarios and User Stories
+
+Date: 10 May 2025
+
+Time: 19:00-19:30
+
+Venue: Microsoft Teams
+
+Attendance: Memory Sidumo, Chuleza Dotye, Zandiswa Cetywayo, Mbuthuma Ntombizodwa
+
+Absent: None
+
+# Agenda & Topics Discussed
+
+1.	Define system architecture.
+2.	Outline component interactions.
+3.	Select technology stack.
+   
+
+# Action Items & Assignment
+
+| Task | Assigned To | Deadline |
+|-----------|----------------------|------------|
+|System decomposition | Ntombizodwa Mbuthuma| 10 May 2025 |
+|Draw architecture diagrams. Technology stack justificatoin. | Zandiswa Cetywayo | 10 May 2025 |
+|Updating project board  | Chuleza Dotye |10 May 2025 |
+|Define system architecture. Updating meting notes | Memory Sidumo | 10 May 2025 |
+| GitHub repository update | All team members | 10 May  2025 |
 
 
