@@ -123,7 +123,7 @@ Absent: None
 | Task | Assigned To | Deadline |
 |-----------|----------------------|------------|
 |Feature identification | Ntombizodwa Mbuthuma| 2 April 2025 |
-|Devloping user stories. | Zandiswa Cetywayo |2 April  2025 |
+|Developing user stories. | Zandiswa Cetywayo |2 April  2025 |
 |Functional requirements  | Chuleza Dotye |2 April 2025 |
 |Developing personas and user scenarios | Memory Sidumo |2 April  2025 |
 | GitHub repository update | All team members |2 April  2025 |
