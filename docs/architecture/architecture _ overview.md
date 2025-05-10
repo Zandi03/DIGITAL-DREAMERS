@@ -57,4 +57,19 @@ Easy to maintain, modular and scalable.
 • Application Layer: Business logic and coordination between frontend and backend.
 
 • Data Layer: Contains the database, ML modl storage as well as retrieval processes.
-
+----------------------------+ 
+| Presentation Layer         | 
+| (React Frontend)            | 
++----------------------------+ 
+| 
+v 
++----------------------------+ 
+| Application Layer          | 
+| (Django Backend Services)  | 
++----------------------------+ 
+| 
+v 
++----------------------------+ 
+| Data Layer                 | 
+| (PostgreSQL Database)      | 
++----------------------------+ 
