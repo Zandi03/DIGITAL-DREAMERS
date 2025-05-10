@@ -98,3 +98,39 @@ Absent: None
 	Review on product schema.
 
 	Finalize error handling documenttion.
+
+## Meeting 3: Features,Scenarios and User Stories
+
+Date: 30 April 2025
+
+Time: 19:00-19:30
+
+Venue: Microsoft Teams
+
+Attendance: Memory Sidumo, Chuleza Dotye, Zandiswa Cetywayo, Mbuthuma Ntombizodwa
+
+Absent: None
+
+# Agenda & Topics Discussed
+
+1.	Feature identification
+2.	Create user scenarios.
+3.	Devloping user stories.
+4.	Updating github repository.
+
+# Action Items & Assignment
+
+| Task | Assigned To | Deadline |
+|-----------|----------------------|------------|
+|Feature identification | Ntombizodwa Mbuthuma| 2 April 2025 |
+|Devloping user stories. | Zandiswa Cetywayo |2 April  2025 |
+|Functional requirements  | Chuleza Dotye |2 April 2025 |
+|Developing personas and user scenarios | Memory Sidumo |2 April  2025 |
+| GitHub repository update | All team members |2 April  2025 |
+
+
+# Next Steps
+
+	Begin phase 4
+
+
