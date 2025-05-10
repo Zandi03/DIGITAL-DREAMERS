@@ -20,24 +20,8 @@ Easy to maintain, modular and scalable.
 -  Basic operations can become slower due to inter-layer communication.
 -  Alterations in a layer can impact others if layers are not abstracted properly.
 -  Exceptions in lower layers necessitate robust exception handling in higher layers.
-## High-Level Architecture Diagram (add your real diagram)
+## High-Level Architecture Diagram 
 
-     +----------------------------+
-| Presentation Layer |
-| (React Frontend) |
-+----------------------------+
-|
-v
-+----------------------------+
-| Application Layer |
-| (Flask/Django Backend API) |
-+----------------------------+
-|
-v
-+----------------------------+
-| Data Layer |
-| (PostgreSQL Database) |
-+----------------------------+
 
 **Explanation of Diagram**:
 
