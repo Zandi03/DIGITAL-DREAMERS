@@ -6,9 +6,13 @@
  messages using **TF-IDF, worf embeddings, and classfiers like Naive Bayes, Logistic Regression and SVM**.
 
 ## Team Members 
- - Memory Sidumo- Project Manager 
+ - Zandiswa Cetywayo-Project Manager
+   
+ - Nosihle Dzanibe-frontend developer
+   
+ - Memory Sidumo-Designer
  
- - Zandiswa Cetywayo- Developer
+ -Siniko Mgwatyu-backend developer
    
  - Chuleza Dotye- Researcher
    
